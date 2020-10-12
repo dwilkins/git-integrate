@@ -29,7 +29,7 @@ cargo install --force --path .
 
 ## Configuration
 
-Get a GitHub token and select `repo - Full control of private repositories` for
+Get a [GitHub token])(https://github.com/settings/tokens) and select `repo - Full control of private repositories` for
 the scope if you want to use it with private repositories. Then either modify
 your `~/.gitconfig` file and add the following:
 
